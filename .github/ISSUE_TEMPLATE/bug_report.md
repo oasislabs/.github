@@ -1,17 +1,38 @@
-**Description of the bug**
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Describe the bug**
 A clear and concise description of what the bug is.
 
-**Steps to reproduce**
-1. Do the thing...
-2. Do the other thing
-3. See error
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Environment**
- - OS: [e.g. Ubuntu 18.04, macOS Mojave]
- - Versions of relevant software and tools: [e.g. Rust nightly-2019-08-26, Ekiden v0.3]
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**Additional information**
-Anything else you think would be useful; including context and suggested fixes.
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
