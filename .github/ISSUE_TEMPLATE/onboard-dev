@@ -1,0 +1,19 @@
+---
+name: New Developer
+about: Tasks to help onboard new parcel developer
+labels: 't:ds-customer'
+
+---
+
+**Customer information**
+Brief description of the developer and responsible PM. 
+
+**Email addresses Slack Channel**
+1. List email addresses of developers to add to oasis-<customer name> slack channel. 
+2. Preferred name for the slack channel
+
+**Email addresses of the developers who need access to parcel npm packages**
+This could be same as above or different
+
+**Additional information**
+Anything else you think would be useful;
